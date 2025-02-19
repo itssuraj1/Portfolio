@@ -17,7 +17,7 @@ Check out my portfolio here: [Suraj Thapa's Portfolio](https://v0-portfolio-webs
 
 ## Technologies Used
 - **Frontend**: Next.js, React.js, Tailwind CSS
-- **Backend**: Node.js (if applicable)
+- **Backend**: Node.js 
 - **Deployment**: Vercel
 
 ## Getting Started
